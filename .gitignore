@@ -2,12 +2,15 @@
 #///////////////////////////
 # Cocos Creator 3D Project
 #///////////////////////////
-library/
-temp/
-local/
-build/
-profiles/
-native
+
+/library
+/profiles
+/temp
+/local
+/native
+/extensions
+
+/build/web-mobile*/
 #//////////////////////////
 # NPM
 #//////////////////////////

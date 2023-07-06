@@ -1,0 +1,16 @@
+{
+  "name": "background-remove",
+  "uuid": "c93263d9-d459-41f3-b907-31e55734db6c",
+  "creator": {
+    "version": "3.7.3"
+  },
+  "dependencies": {
+    "@imgly/background-removal": "^1.0.3",
+    "onnxruntime-web": "^1.15.1"
+  },
+  "devDependencies": {
+    "@types/lodash-es": "^4.17.7",
+    "http-proxy-middleware": "^2.0.6"
+  },
+  "version": "1.0.0"
+}
